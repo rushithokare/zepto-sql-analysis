@@ -16,6 +16,7 @@ discountPercent	Discount applied
 availableQuantity	Stock available
 outOfStock	Stock status
 weightInGms	Product weight
+
 🔸 3️⃣ Business Questions Answered
 
 Which products offer the best discounts?
